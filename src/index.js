@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-// database connection
+// Database connection
 require("./db");
 
 // Settings

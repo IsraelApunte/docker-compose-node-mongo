@@ -1,5 +1,5 @@
 {
-  "name": "docker-node-mongo-example",
+  "name": "docker-node-mongo-israel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Luis Israel",
+  "author": "Israel Apunte",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
